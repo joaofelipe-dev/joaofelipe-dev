@@ -15,9 +15,9 @@
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaofelipe-dev&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipe-dev&layout=compact&theme=tokyonight" />
 
 ## 📫 Contato
 
