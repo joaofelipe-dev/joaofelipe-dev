@@ -1,55 +1,21 @@
-<h1 align="center">Olá 👋 Eu sou João Felipe</h1>
+# João Felipe
 
-<p align="center">
-💻 Desenvolvedor Frontend • ⚛️ React & Next.js • 🎓 ADS - FATEC
-</p>
+Desenvolvedor Frontend • React / Next.js / TypeScript • SEO e Web Performance
 
----
+Atuo com desenvolvimento de aplicações web internas e automação de processos.
 
-## 🚀 Sobre mim
+Em performance, foco em Core Web Vitals: otimização de imagens (formatos modernos, dimensionamento correto) e lazy loading de componentes.
 
-* 💻 Desenvolvedor Frontend focado em interfaces modernas
-* ⚛️ Experiência com React e Next.js
-* 🎨 Criação de interfaces responsivas com Tailwind
-* 📚 Cursando Análise e Desenvolvimento de Sistemas (FATEC)
+## Stack
 
----
+**Principal:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+**Também uso:** Node.js, REST APIs, Prisma, Zustand, React Hook Form + Zod, NextAuth
 
-## 🛠 Tecnologias
+## Formação
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
-</p>
+Análise e Desenvolvimento de Sistemas — FATEC
 
----
+## Contato
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaofelipe-dev&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-<img 
- height="170"
- src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaofelipe-dev&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
-## 📫 Contato
-
-* 💼 LinkedIn: https://www.linkedin.com/in/joao-felipedev
-* 📧 Email: [joaoufelipe@hotmail.com](mailto:joaoufelipe@hotmail.com)
-
----
-
-<p align="center">
-⭐ Sempre buscando aprender novas tecnologias
-</p>
+- LinkedIn: [linkedin.com/in/joao-felipedev](https://www.linkedin.com/in/joao-felipedev)
+- Email: joaoufelipedev@gmail.com
